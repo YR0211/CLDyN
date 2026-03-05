@@ -1,7 +1,7 @@
 # CLDyN
 
 ### CLDyN: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion
-
+By Zengyi Yang; Yu Liu*; Juan Cheng; Zhiqin Zhu; Yafei Zhang; Huafeng Li*
 
 <div align=center>
 <img src="./overview.png" width="90%">
