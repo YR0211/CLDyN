@@ -154,4 +154,6 @@ The recommended environment to run the code:
         python train_RSC.py
 
 ## Pretrained Model
-*   The code and pre-trained model will be released upon paper acceptance.
+*   The pretrained model is provided as follows: [Google Link](https://drive.google.com/drive/folders/1dP8NThXIAn6dQivjINPAia0XBpFSy5wa?usp=sharing)
+
+## Citation
