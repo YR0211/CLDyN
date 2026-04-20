@@ -3,6 +3,8 @@
 ### Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion [CVPR 2026]
 By Zengyi Yang; Yu Liu*; Juan Cheng; Zhiqin Zhu; Yafei Zhang; Huafeng Li*
 
+Our paper is available online! [[arXiv](https://arxiv.org/abs/2604.08924)]
+
 <div align=center>
 <img src="./overview.png" width="90%">
 </div>
@@ -157,3 +159,11 @@ The recommended environment to run the code:
 *   The pretrained model is provided as follows: [Google Link](https://drive.google.com/drive/folders/1dP8NThXIAn6dQivjINPAia0XBpFSy5wa?usp=sharing)
 
 ## Citation
+```
+@article{CLDyN,
+      title={Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion}, 
+      author={Zengyi Yang and Yu Liu and Juan Cheng and Zhiqin Zhu and Yafei Zhang and Huafeng Li},
+      journal={arXiv preprint arXiv:2604.08924},
+      year={2026},
+}
+```
