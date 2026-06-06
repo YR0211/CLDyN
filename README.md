@@ -1,7 +1,7 @@
 # CLDyN
 
 ### Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion [CVPR 2026 Oral | Award Candidate]
-By Zengyi Yang; Yu Liu*; Juan Cheng; Zhiqin Zhu; Yafei Zhang; Huafeng Li*
+By [Zengyi Yang](https://scholar.google.com/citations?user=o36El44AAAAJ&hl=zh-CN); Yu Liu*; Juan Cheng; Zhiqin Zhu; Yafei Zhang; Huafeng Li*
 
 
 ## 🔥 News
