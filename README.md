@@ -1,9 +1,9 @@
 # CLDyN
 
-### Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion [CVPR 2026]
+### Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion [CVPR 2026 Oral, [Award Candidate](https://cvpr.thecvf.com/virtual/2026/events/AwardCandidates2026)]
 By Zengyi Yang; Yu Liu*; Juan Cheng; Zhiqin Zhu; Yafei Zhang; Huafeng Li*
 
-Our paper is available online! [[arXiv](https://arxiv.org/abs/2604.08924)]
+Our paper is available online! [[arXiv](https://arxiv.org/abs/2604.08924)] [[open access](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Customized_Fusion_A_Closed-Loop_Dynamic_Network_for_Adaptive_Multi-Task-Aware_Infrared-Visible_CVPR_2026_paper.html)]
 
 <div align=center>
 <img src="./overview.png" width="90%">
@@ -160,10 +160,11 @@ The recommended environment to run the code:
 
 ## Citation
 ```
-@article{CLDyN,
-      title={Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion}, 
-      author={Zengyi Yang and Yu Liu and Juan Cheng and Zhiqin Zhu and Yafei Zhang and Huafeng Li},
-      journal={arXiv preprint arXiv:2604.08924},
-      year={2026},
+@InProceedings{CLDyN,
+    author    = {Yang, Zengyi and Liu, Yu and Cheng, Juan and Zhu, Zhiqin and Zhang, Yafei and Li, Huafeng},
+    title     = {Customized Fusion: A Closed-Loop Dynamic Network for Adaptive Multi-Task-Aware Infrared-Visible Image Fusion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2026},
+    pages     = {188-198}
 }
 ```
