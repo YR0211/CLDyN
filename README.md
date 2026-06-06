@@ -6,8 +6,8 @@ By [Zengyi Yang](https://scholar.google.com/citations?user=o36El44AAAAJ&hl=zh-CN
 
 ## 🔥 News
 
-- 🏆 Our paper has been selected as a [**CVPR 2026 Award Candidate**](https://cvpr.thecvf.com/virtual/2026/events/AwardCandidates2026).
-- 🎤 Our paper has been accepted as a [**CVPR 2026 Oral Presentation**](https://cvpr.thecvf.com/virtual/2026/poster/37367).
+- 🏆 Our paper has been selected as a [CVPR 2026 Award Candidate](https://cvpr.thecvf.com/virtual/2026/events/AwardCandidates2026).
+- 🎤 Our paper has been accepted as a [CVPR 2026 Oral Presentation](https://cvpr.thecvf.com/virtual/2026/poster/37367).
 - 📄 Open-access version is available at the CVPR website: [[Open Access]](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_Customized_Fusion_A_Closed-Loop_Dynamic_Network_for_Adaptive_Multi-Task-Aware_Infrared-Visible_CVPR_2026_paper.html).
 - 📄 Our paper is available online: [[arXiv]](https://arxiv.org/abs/2604.08924).
 
